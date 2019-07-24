@@ -1,5 +1,4 @@
 var animal = 'dog';
-var yourAnimal = innerFunction();
 
 function myAnimal() {
   return animal
